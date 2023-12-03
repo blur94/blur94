@@ -17,8 +17,8 @@ console.log(`Let's collaborate and create something extraordinary! 🚀`);
 
 ### Connect with me:
 
-[<img src="assets/x.svg" />][X]
-[<img src="assets/linkedin.svg" />][linkedin]
+[<img src="assets/x.svg" style="margin-right: 10px" />][X]
+[<img src="assets/linkedin.svg" style="margin-right: 10px" />][linkedin]
 [<img src="assets/instagram.svg" />][instagram]
 
 ### Languages and Tools:
