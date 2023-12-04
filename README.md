@@ -37,7 +37,7 @@ console.log(`Let's collaborate and create something extraordinary! 🚀`);
 <img src="assets/zod.svg" /> &nbsp;
 <img src="assets/mantine.svg" />
 
-### Project:
+### Projects:
 
 [Metrix](https://metrix.gileadodo.xyz)\
 [BookHub](https://bookhub.gileadodo.xyz)\
