@@ -9,7 +9,7 @@ const developer = {
   stack: ["TypeScript", "JavaScript", "Next.js", "React", "Node.js", "MongoDB"],
   passion: "Crafting pixel-perfect and performance-driven web experiences",
   motto: "Building the future, one line at a time",
-  currentlyLearning: "React Native and Go Lang",
+  currentlyLearning: "React Native and Node.js",
 };
 
 console.log(`Let's collaborate and create something extraordinary! 🚀`);
